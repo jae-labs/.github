@@ -78,9 +78,10 @@ Darwin
 ├── sandbox             # Experimental playground for unverified configurations
 ├── scripts             # Collection of handy helper utility scripts
 ├── skills              # Reusable agent skills and custom capabilities
+├── template            # Generic Project Horizon repository template
 └── terraform           # Core IaC modules and configurations
 
-12 directories, 0 files
+13 directories, 0 files
 ```
 ---
 
